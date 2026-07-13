@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ragib Nehal Mahi
 
 <p align="center">
-  <img src=" https://chatgpt.com/backend-api/estuary/content?id=file_00000000e52c71fa90caedd957f774c8&ts=495538&p=fs&cid=1&sig=f1d563db7840ac1b7014da8d863f4552be11f5849f6306e30ced38ad70d85f28&v=0" alt="Ragib Banner" width="100%" />
+  <img src="https://github.com/ragibnehalmahi/ragibnehalmahi/blob/main/ChatGPT%20Image%20Jul%2013,%202026,%2005_37_53%20PM.png?raw=true" alt="Ragib Banner" width="100%" />
 </p>
 
 ### 🚀 Full-Stack Web Developer | Building Scalable, Secure, and High-Performance Applications
