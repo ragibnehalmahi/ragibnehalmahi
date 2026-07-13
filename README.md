@@ -31,7 +31,7 @@
 ### 🗺️ Local Guide Platform
 > **A full-stack marketplace connecting travelers with local guides.** Built with Next.js, TypeScript, Prisma, PostgreSQL, and Node.js. Features include multi-role system (Tourist, Guide, Admin), JWT authentication, real-time booking engine, SSLCommerz payment integration, review & rating system, and wishlist.
 
-🔗 [Live Demo](https://local-guide-frontend.vercel.app) · [Client Repo](https://github.com/ragibnehalmahi/local-guide-frontend) · [Server Repo](https://github.com/ragibnehalmahi/local-guide-backend)
+🔗 [Live Demo](https://local-guide-frontend.vercel.app) · [Client Repo](https://github.com/ragibnehalmahi/local-guide-frontend-assignment) · [Server Repo](https://github.com/ragibnehalmahi/local-guide-backend)
 
 ---
 
@@ -52,7 +52,7 @@
 ### 📦 Parcel Delivery API
 > **A secure backend API for parcel management (inspired by Pathao Courier).** Built with Express.js, Mongoose, and JWT. Features include role-based access (admin, sender, receiver), tracking ID system (TRK-YYYYMMDD-xxxxxx), status log tracking (subdocument pattern), and transactional logic.
 
-🔗 [Server Repo](https://github.com/ragibnehalmahi/parcel-delivery-api)
+🔗 [Server Repo](https://github.com/ragibnehalmahi/parcel-api-project)
 
 ---
 
