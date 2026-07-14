@@ -38,7 +38,7 @@
 ### 🏥 Alpha Health Care System
 > **A modular healthcare API with 40+ routes.** Built with Node.js, Express, MongoDB, Mongoose, JWT, Stripe & SSLCommerz payment gateways. Features include multi-role system (Admin, Doctor, Patient), advanced scheduling, appointment engine, digital prescriptions, email notifications (Nodemailer), and cloud file uploads.
 
-🔗 [Live Demo](https://alpha-health-care.vercel.app) · [Client Repo](https://github.com/ragibnehalmahi/alpha-health-frontend) · [Server Repo](https://github.com/ragibnehalmahi/alpha-health-backend)
+🔗 [Live Demo](https://alpha-health-care.vercel.app) · [Client Repo](https://github.com/ragibnehalmahi/alpha-health-frontend) · [Server Repo](https://github.com/ragibnehalmahi/Alpha-health-care-server)
 
 ---
 
