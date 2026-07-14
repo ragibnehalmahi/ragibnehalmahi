@@ -68,7 +68,7 @@
 ## 📬 Connect with Me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ragib-nehal-mahi/" target="_blank">
+  <a href="https://bd.linkedin.com/in/ragib-nehal-mahi-mahi-867936261" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" style="vertical-align: middle;" />
   </a>
   <a href="mailto:ragibnehalmahi504@gmail.com">
