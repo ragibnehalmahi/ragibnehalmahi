@@ -83,7 +83,7 @@
 
 ## 📄 Resume
 
-📎 [Download My Resume](#)
+📎 [Download My Resume](https://drive.google.com/file/d/1OsvhBgiOTjTXOAcu3DHYFlO-rnbmb-Px/view)
 
 ---
 
