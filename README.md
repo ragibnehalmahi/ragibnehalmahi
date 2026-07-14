@@ -31,7 +31,7 @@
 ### 🗺️ Local Guide Platform
 > **A full-stack marketplace connecting travelers with local guides.** Built with Next.js, TypeScript, Prisma, PostgreSQL, and Node.js. Features include multi-role system (Tourist, Guide, Admin), JWT authentication, real-time booking engine, SSLCommerz payment integration, review & rating system, and wishlist.
 
-🔗 [Live Demo](https://local-guide-frontend.vercel.app) · [Client Repo](https://github.com/ragibnehalmahi/local-guide-frontend-assignment) · [Server Repo](https://github.com/ragibnehalmahi/local-guide-backend)
+🔗 [Live Demo](https://local-guide-front-assignment1-pro.onrender.com/) · [Client Repo](https://github.com/ragibnehalmahi/local-guide-frontend-assignment) · [Server Repo](https://github.com/ragibnehalmahi/local-guide-backend)
 
 ---
 
