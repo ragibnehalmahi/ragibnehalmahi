@@ -41,7 +41,12 @@
 🔗 [Live Demo](https://alpha-health-care.vercel.app) · [Client Repo](https://github.com/ragibnehalmahi/alpha-health-frontend) · [Server Repo](https://github.com/ragibnehalmahi/Alpha-health-care-server)
 
 ---
+### 📦 Parcel Delivery API
+> **A secure backend API for parcel management (inspired by Pathao Courier).** Built with Express.js, Mongoose, and JWT. Features include role-based access (admin, sender, receiver), tracking ID system (TRK-YYYYMMDD-xxxxxx), status log tracking (subdocument pattern), and transactional logic.
 
+🔗  [Live Demo](https://parcel-frontend-one.vercel.app/) · [Client Repo](https://github.com/ragibnehalmahi/parcel-delivery-frontend-project) · [Server Repo](https://github.com/ragibnehalmahi/parcel-api-project)
+
+---
 ### 🛍️ Mom & Baby Wear
 > **Complete e-commerce platform with AI-powered chat, inventory management, and coupon system.** Built with Next.js, TypeScript, Prisma, PostgreSQL, and Tailwind CSS. Features include AI chat support, inventory tracking, coupon system, newsletter, and contact form with AI reply.
 
@@ -49,12 +54,7 @@
 
 ---
 
-### 📦 Parcel Delivery API
-> **A secure backend API for parcel management (inspired by Pathao Courier).** Built with Express.js, Mongoose, and JWT. Features include role-based access (admin, sender, receiver), tracking ID system (TRK-YYYYMMDD-xxxxxx), status log tracking (subdocument pattern), and transactional logic.
 
-🔗 [Server Repo](https://github.com/ragibnehalmahi/parcel-api-project)
-
----
 
 ## 📊 GitHub Stats:
 
